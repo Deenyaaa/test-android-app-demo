@@ -1,0 +1,49 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+
+# ---- Virtual Environments ----
+.venv/
+env/
+venv/
+ENV/
+
+# ---- Pytest & Allure ----
+.cache/
+.pytest_cache/
+allure-results/
+allure-report/
+reports/
+*.log
+
+# ---- JetBrains / PyCharm ----
+.idea/
+*.iml
+
+# ---- Appium / Android ----
+*.apk
+*.keystore
+*.gradle
+*.dex
+*.log
+
+# ---- System Files ----
+.DS_Store
+Thumbs.db
+
+# ---- Temporary Files ----
+*.tmp
+*.swp
+*.bak
+
+# ---- JSON or output reports ----
+*.json
+*.txt
+
+# ---- Local config overrides ----
+config.local.py
+.env
