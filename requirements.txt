@@ -1,0 +1,5 @@
+pytest==8.3.2
+allure-pytest==2.13.5
+selenium==4.15.1
+appium-python-client==4.0.0
+Jinja2>=3.0.0

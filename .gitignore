@@ -43,6 +43,7 @@ Thumbs.db
 # ---- JSON or output reports ----
 *.json
 *.txt
+!requirements.txt
 
 # ---- Local config overrides ----
 config.local.py
