@@ -1,4 +1,4 @@
-# VPNAppTestSpeed
+# VPN App Speed Test
 
 **VPNAppTestSpeed** — это проект для автоматизированного тестирования производительности VPN-серверов с использованием мобильного приложения VPN и Speedtest на Android. Тесты написаны на Python с использованием **Pytest** и **Appium**.
 
